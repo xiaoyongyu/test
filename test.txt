@@ -1,2 +1,4 @@
 ﻿开启git之路
 啊实打实
+Git is free software.
+Git is free software distributed under the GPL.
